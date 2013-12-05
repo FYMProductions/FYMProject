@@ -1,0 +1,107 @@
+make: ActiveProjectA/Production Documents
+make: ActiveProjectA/Production Documents/RFP
+filePath: ActiveProjectA/Production Documents/RFP
+create dir: ActiveProjectA/Production Documents/Proposal
+filePath: ActiveProjectA/Production Documents/Proposal
+create dir: ActiveProjectA/Production Documents/Script
+filePath: ActiveProjectA/Production Documents/Script
+create dir: ActiveProjectA/Production Documents/Art Direction
+make: ActiveProjectA/Production Documents/Art Direction/Mockups
+filePath: ActiveProjectA/Production Documents/Art Direction/Mockups
+create dir: ActiveProjectA/Production Documents/Art Direction/StyleFrames
+filePath: ActiveProjectA/Production Documents/Art Direction/StyleFrames
+create dir: ActiveProjectA/Production Documents/Art Direction/Storyboards
+Path: ActiveProjectA/MediaAssets
+make: ActiveProjectA/MediaAssets/Video
+make: ActiveProjectA/MediaAssets/Video/RawFiles
+filePath: ActiveProjectA/MediaAssets/Video/RawFiles
+create dir: ActiveProjectA/MediaAssets/Video/Transcoded
+make: ActiveProjectA/MediaAssets/Video/Transcoded/Slowmotion
+filePath: ActiveProjectA/MediaAssets/Video/Transcoded/Slowmotion
+create dir: ActiveProjectA/MediaAssets/Video/Transcoded/Proxy
+filePath: ActiveProjectA/MediaAssets/Video/Transcoded/Proxy
+create dir: ActiveProjectA/MediaAssets/Video/Transcoded/GeneralTranscode
+Path: ActiveProjectA/MediaAssets/Audio
+make: ActiveProjectA/MediaAssets/Audio/ProductionSound
+filePath: ActiveProjectA/MediaAssets/Audio/ProductionSound
+create dir: ActiveProjectA/MediaAssets/Audio/SFX
+filePath: ActiveProjectA/MediaAssets/Audio/SFX
+create dir: ActiveProjectA/MediaAssets/Audio/VoiceOver
+filePath: ActiveProjectA/MediaAssets/Audio/VoiceOver
+create dir: ActiveProjectA/MediaAssets/Audio/Music
+make: ActiveProjectA/MediaAssets/Audio/Photos
+filePath: ActiveProjectA/MediaAssets/Audio/Photos
+create dir: ActiveProjectA/MediaAssets/Audio/Texture
+filePath: ActiveProjectA/MediaAssets/Audio/Texture
+create dir: ActiveProjectA/MediaAssets/Audio/Overlays
+filePath: ActiveProjectA/MediaAssets/Audio/Overlays
+create dir: ActiveProjectA/MediaAssets/Audio/GFX Elements
+make: ActiveProjectA/MediaAssets/Audio/Logos
+filePath: ActiveProjectA/MediaAssets/Audio/Logos
+create dir: ActiveProjectA/MediaAssets/Audio/Font
+filePath: ActiveProjectA/MediaAssets/Audio/Font
+create dir: ActiveProjectA/MediaAssets/Audio/ColorPalette
+filePath: ActiveProjectA/MediaAssets/Audio/ColorPalette
+create dir: ActiveProjectA/MediaAssets/Audio/StyleGuide
+Path: ActiveProjectA/ProjectFilesWorking
+make: ActiveProjectA/ProjectFilesWorking/AfterEffects
+make: ActiveProjectA/ProjectFilesWorking/AfterEffects/ProjectFile
+filePath: ActiveProjectA/ProjectFilesWorking/AfterEffects/ProjectFile
+create dir: ActiveProjectA/ProjectFilesWorking/AfterEffects/AutoSave
+filePath: ActiveProjectA/ProjectFilesWorking/AfterEffects/AutoSave
+create dir: ActiveProjectA/ProjectFilesWorking/AfterEffects/RenderFiles
+make: ActiveProjectA/ProjectFilesWorking/AfterEffects/RenderFiles/PreviewFiles
+Path: ActiveProjectA/ProjectFilesWorking/Photoshop
+make: ActiveProjectA/ProjectFilesWorking/Photoshop/ProjectFile
+filePath: ActiveProjectA/ProjectFilesWorking/Photoshop/ProjectFile
+create dir: ActiveProjectA/ProjectFilesWorking/Photoshop/AutoSave
+filePath: ActiveProjectA/ProjectFilesWorking/Photoshop/AutoSave
+create dir: ActiveProjectA/ProjectFilesWorking/Photoshop/RenderFiles
+make: ActiveProjectA/ProjectFilesWorking/Photoshop/RenderFiles/PreviewFiles
+Path: ActiveProjectA/ProjectFilesWorking/Premiere
+make: ActiveProjectA/ProjectFilesWorking/Premiere/ProjectFile
+filePath: ActiveProjectA/ProjectFilesWorking/Premiere/ProjectFile
+create dir: ActiveProjectA/ProjectFilesWorking/Premiere/AutoSave
+filePath: ActiveProjectA/ProjectFilesWorking/Premiere/AutoSave
+create dir: ActiveProjectA/ProjectFilesWorking/Premiere/RenderFiles
+make: ActiveProjectA/ProjectFilesWorking/Premiere/RenderFiles/PreviewFiles
+Path: ActiveProjectA/ProjectFilesWorking/Lightroom
+make: ActiveProjectA/ProjectFilesWorking/Lightroom/ProjectFile
+filePath: ActiveProjectA/ProjectFilesWorking/Lightroom/ProjectFile
+create dir: ActiveProjectA/ProjectFilesWorking/Lightroom/AutoSave
+filePath: ActiveProjectA/ProjectFilesWorking/Lightroom/AutoSave
+create dir: ActiveProjectA/ProjectFilesWorking/Lightroom/RenderFiles
+make: ActiveProjectA/ProjectFilesWorking/Lightroom/RenderFiles/PreviewFiles
+Path: ActiveProjectA/ProjectFilesWorking/InDesign
+make: ActiveProjectA/ProjectFilesWorking/InDesign/ProjectFile
+filePath: ActiveProjectA/ProjectFilesWorking/InDesign/ProjectFile
+create dir: ActiveProjectA/ProjectFilesWorking/InDesign/AutoSave
+filePath: ActiveProjectA/ProjectFilesWorking/InDesign/AutoSave
+create dir: ActiveProjectA/ProjectFilesWorking/InDesign/RenderFiles
+make: ActiveProjectA/ProjectFilesWorking/InDesign/RenderFiles/PreviewFiles
+Path: ActiveProjectA/ProjectFilesWorking/Illustrator
+make: ActiveProjectA/ProjectFilesWorking/Illustrator/ProjectFile
+filePath: ActiveProjectA/ProjectFilesWorking/Illustrator/ProjectFile
+create dir: ActiveProjectA/ProjectFilesWorking/Illustrator/AutoSave
+filePath: ActiveProjectA/ProjectFilesWorking/Illustrator/AutoSave
+create dir: ActiveProjectA/ProjectFilesWorking/Illustrator/RenderFiles
+make: ActiveProjectA/ProjectFilesWorking/Illustrator/RenderFiles/PreviewFiles
+Path: ActiveProjectA/ProjectFilesWorking/Audition
+make: ActiveProjectA/ProjectFilesWorking/Audition/ProjectFile
+filePath: ActiveProjectA/ProjectFilesWorking/Audition/ProjectFile
+create dir: ActiveProjectA/ProjectFilesWorking/Audition/AutoSave
+filePath: ActiveProjectA/ProjectFilesWorking/Audition/AutoSave
+create dir: ActiveProjectA/ProjectFilesWorking/Audition/RenderFiles
+make: ActiveProjectA/ProjectFilesWorking/Audition/RenderFiles/PreviewFiles
+Path: ActiveProjectA/ProjectFilesWorking/REDCine
+make: ActiveProjectA/ProjectFilesWorking/REDCine/ProjectFile
+filePath: ActiveProjectA/ProjectFilesWorking/REDCine/ProjectFile
+create dir: ActiveProjectA/ProjectFilesWorking/REDCine/AutoSave
+filePath: ActiveProjectA/ProjectFilesWorking/REDCine/AutoSave
+create dir: ActiveProjectA/ProjectFilesWorking/REDCine/RenderFiles
+make: ActiveProjectA/ProjectFilesWorking/REDCine/RenderFiles/PreviewFiles
+Path: ActiveProjectA/WikiLinks
+make: ActiveProjectA/WikiLinks/DocumentDropbox
+filePath: ActiveProjectA/WikiLinks/DocumentDropbox
+create dir: ActiveProjectA/WikiLinks/StatusUpdates
+Path: /

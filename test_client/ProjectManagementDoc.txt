@@ -1,0 +1,80 @@
+# FYM PROJECT  INITIATION WORKFLOW
+
+## 1 Project Manager Information
+* PROJECT TITLE: 
+* Project Manager:
+* Date:
+* Project ID:
+* Project Type: 
+
+## 2 Project Objective
+* One sentence description
+* Project Deliverables
+
+## 3 Client
+
+* Client Contact
+    * Who agrees to this project setup?
+    * Who will signoff the requirements?
+    * Who will remove obstacles?
+    * Who will accept the finished product?
+* Who is Client Project Manager
+* Client Resources & Responsibilities
+    * What additional resources will be required?
+    * What are they expected to do?
+
+## 4 Project Scope
+
+* What is the scope of the project? i.e. Editing, Photography, etc.
+* What Freelancers are required?
+* Are there locations other than FYM? Will Freelancer work offsite?
+* What new processes need to be created / documented?
+* How will the project be accepted / recognized as complete?
+* What documentation is required?
+* What are the critical requirements?
+
+## 5 Schedule
+
+* Start Date
+* End Date
+* 1st Round to Client
+* 2nd Round to Client
+* Final Product
+
+## 6 Budget
+
+* Client Budget
+* Working Budget
+* Broad Costs
+    * Hardware
+    * Software
+    * Network
+    * Staff
+    * Facilities
+    * Other
+
+
+## 7 Background
+
+* Briefly describe how this project came about
+* Client specific past projects?
+* Similar projects from other clients?
+
+## 8 Constraints
+
+* What is the maximum cost of the project?
+* What is the latest project completion date?
+* Are there Scheduling limitations?
+
+## 9 Business Case
+
+* Project Justification
+    * Why do this project?
+    * What happens if we do not do it?
+    * Why do it now?
+    * How critical will the impact of the project be?
+* Risks
+    * What could go wrong?
+* Do you have a contract with the client?
+
+
